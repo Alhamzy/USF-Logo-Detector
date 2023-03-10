@@ -1,4 +1,4 @@
-**To install before running detector scripts:**
+#To install before running detector scripts:
 pip install azure-cognitiveservices-vision-customvision
 pip install --upgrade azure-cognitiveservices-vision-computervision
 pip install pillow
